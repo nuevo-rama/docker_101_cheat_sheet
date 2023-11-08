@@ -7,6 +7,14 @@ Docker: Commands - References - Guides
 #### Docker Installations
 [Docker installations](https://hub.docker.com/)
 
-- ``--detach`` Will run this container in the background
-- ``--publish 8080:80`` Publishes port 80 in the container
 
+#### Flags
+| Flag | Descripción |
+| ----------- | ----------- |
+| ``--detach``| Corre el contenedor en segundo plano|
+| ``--publish 8080:80``| Publica el puerto 80 en el contenedor, utilizando el puerto 8080 en su host.|
+| ``--publish 8080:80``| Es una característica que permite exponer la conexión de red desde el contenedor hacia el host|
+| ``--name``| Asigna un nombre al contenedor|
+ 
+
+ 
