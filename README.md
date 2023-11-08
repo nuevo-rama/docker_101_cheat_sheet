@@ -7,3 +7,6 @@ Docker: Commands - References - Guides
 #### Docker Installations
 [Docker installations](https://hub.docker.com/)
 
+- ``--detach`` Will run this container in the background
+- ``--publish 8080:80`` Publishes port 80 in the container
+
