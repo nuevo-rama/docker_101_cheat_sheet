@@ -15,6 +15,7 @@ Docker: Commands - References - Guides
 | ``--publish 8080:80``| Publica el puerto 80 en el contenedor, utilizando el puerto 8080 en su host.|
 | ``--publish 8080:80``| Es una característica que permite exponer la conexión de red desde el contenedor hacia el host|
 | ``--name``| Asigna un nombre al contenedor|
+|||
  
 
  
